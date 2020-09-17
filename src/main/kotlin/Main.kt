@@ -3,7 +3,7 @@ import org.web3j.protocol.websocket.WebSocketService
 
 fun main() {
 
-    val socketService = WebSocketService("wss://mainnet.infura.io/ws/v3/<infuraID>", true);
+    val socketService = WebSocketService("wss://mainnet.infura.io/ws/v3/<infuraID>u", true);
 
     println("Started >>>>>>> ")
 
